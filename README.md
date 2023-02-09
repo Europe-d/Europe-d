@@ -47,5 +47,5 @@ a few things what I know :
 
 where you can find me :
 
-https://www.instagram.com/ed.europedesign/
+Look at my profile on the left .. 
 
