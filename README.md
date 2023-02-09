@@ -31,10 +31,10 @@ a few things what I know :
 
 | Languages     | Level            | Programm        |
 |---------------|------------------|-----------------|
-| Greek         | mother Languages | CorelDRAW ✨     |
+| Greek         | mother Languages | CorelDRAW ✨    |
 | Englisch      | Β1               | Adobe Photoshop |
 | German        | Β2               | Figma           |
-|               |                  | AutoCAD         |
+| Türkisch      | A1               | AutoCAD         |
 |               |                  | PowerPoint      |
 |               |                  | Citrix Gateway  |
 |               |                  | Prisma          |
