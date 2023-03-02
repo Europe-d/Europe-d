@@ -42,7 +42,7 @@ a few things what I know :
 |               |                  | Skizzenbuch     |
 |               |                  | Vector          |
 |               |                  | Painter         |
-|               |                  | RoomPlanner     |
+|               |                  | RoomPlanner etc.|
 
 
 where you can find me :
