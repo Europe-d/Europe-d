@@ -34,15 +34,15 @@ a few things what I know :
 | Greek         | mother Languages | CorelDRAW ✨    |
 | Englisch      | Β1               | Adobe Photoshop |
 | German        | Β2               | Figma           |
-| Türkisch      | A1               | AutoCAD         |
-|               |                  | PowerPoint      |
+|               |                  | AutoCAD         |
+|               |                  | Android studio  |
 |               |                  | Citrix Gateway  |
 |               |                  | Prisma          |
 |               |                  | Adobe Animate   |
 |               |                  | Skizzenbuch     |
 |               |                  | Vector          |
 |               |                  | Painter         |
-|               |                  | RoomPlanner etc.|
+|               |                  | Canva etc.      |
 
 
 where you can find me :
