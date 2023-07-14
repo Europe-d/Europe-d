@@ -20,30 +20,6 @@ my logo is "<font color="red">_ed_</font>" from :
  Europ<font color="red">_ed_</font>esign
 
 
-*MY FAVORITE ANIMAL IS <font color="Black">BLACK</font><font color="yellow">PUMA</font>.* 😱
-
-![puma](waitandshoot200900149.webp)
-
-
-a few things what I know :
-
-
-
-| Languages     | Level            | Programm        |
-|---------------|------------------|-----------------|
-| Greek         | mother Languages | CorelDRAW ✨    |
-| Englisch      | Β1               | Adobe Photoshop |
-| German        | Β2               | Figma           |
-|               |                  | AutoCAD         |
-|               |                  | Android studio  |
-|               |                  | Citrix Gateway  |
-|               |                  | Prisma          |
-|               |                  | Adobe Animate   |
-|               |                  | Skizzenbuch     |
-|               |                  | Vector          |
-|               |                  | Painter         |
-|               |                  | Canva etc.      |
-
 
 where you can find me :
 
