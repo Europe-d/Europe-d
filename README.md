@@ -25,4 +25,5 @@ where you can find me :
 
 Look at my profile on the left .. 
 
-![design-with-code](https://github.com/Europe-d/Europe-d/assets/119285741/f798f443-8577-4978-ac3a-19f4975c6b6d)
+
+![giphy](https://github.com/Europe-d/Europe-d/assets/119285741/b98b9f73-c6be-4026-8ddc-07ffbce50618)
