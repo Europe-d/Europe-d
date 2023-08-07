@@ -6,7 +6,7 @@
 #### and I come from Greece
 
 
-
+![giphy](https://github.com/Europe-d/Europe-d/assets/119285741/b98b9f73-c6be-4026-8ddc-07ffbce50618)
 
 ##### I have finished in 2006 with the <font color="red">_Graphic design_</font>
 
@@ -26,4 +26,4 @@ where you can find me :
 Look at my profile on the left .. 
 
 
-![giphy](https://github.com/Europe-d/Europe-d/assets/119285741/b98b9f73-c6be-4026-8ddc-07ffbce50618)
+
