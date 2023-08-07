@@ -5,8 +5,8 @@
 ## My name is Εurope   "Evropi I.Mavridou"   
 #### and I come from Greece
 
+![599652c41a8e970726fb6e80b6cfd83a](https://github.com/Europe-d/Europe-d/assets/119285741/54ef28d0-f13c-4319-8143-f9be18e7d7c8)
 
-![giphy](https://github.com/Europe-d/Europe-d/assets/119285741/b98b9f73-c6be-4026-8ddc-07ffbce50618)
 
 ##### I have finished in 2006 with the <font color="red">_Graphic design_</font>
 
