@@ -14,7 +14,7 @@
 
 I'm learning mobile app development at the institute "Syntax" 
 
-but thankfully we're working on the app UI-UX design. 
+but thankfully we're working on the mobile app developerin. 
 
 my logo is "<font color="red">_ed_</font>" from : 
  Europ<font color="red">_ed_</font>esign
